@@ -1,0 +1,31 @@
+Data_Sources,"Nomination / 
+Algo Trading",Market Analytics,"Trading
+Risk Assessment","Physical Asset 
+Risk Assessment","Predictive 
+Maintenance","Energy Generation 
+Monitoring","Cost & Performance 
+Benchmarking","Predictive 
+Safety","Hazard Detection
+ & Monitoring","Regulatory Reporting 
+& Compliance","HSSE & General 
+Sustainability Reporting","Controlling & Performance 
+Monitoring of Operations","Structural Risk 
+Assessment","Plant 
+Management"
+"(External) 
+Market Data",0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Technical plant production 
+and sensor data",1,0,0,1,1,1,1,0,0,0,0,0,0,0
+"Maintenance
+Data",1,0,0,1,1,1,1,1,1,1,0,0,0,0
+"Plant
+Master Data",1,1,1,1,1,1,1,1,1,1,1,1,0,0
+"Asset
+Risk Data",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Non-Tech Plant 
+Operations Data",0,0,0,0,0,0,0,0,0,1,0,1,0,0
+"Financial
+Data",1,0,0,1,0,0,1,0,0,0,0,1,0,0
+"HSSE
+& Sustainability Data",0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Regulatory Data,0,0,0,0,0,0,0,0,0,1,0,1,0,0
